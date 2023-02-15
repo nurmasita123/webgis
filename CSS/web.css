@@ -157,9 +157,9 @@ footer{
 	background-color: #333;
 	color: #fff;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1000px){
 	.container{
-		width: 90%;
+		width: 70%;
 	}
 	header h1 {
 		text-align: center;
